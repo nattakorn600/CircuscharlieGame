@@ -1,0 +1,19 @@
+E:\ProjectSam1\ProjectSam1\bin\Debug\ProjectSam1.exe.config
+E:\ProjectSam1\ProjectSam1\bin\Debug\ProjectSam1.exe
+E:\ProjectSam1\ProjectSam1\bin\Debug\ProjectSam1.pdb
+E:\ProjectSam1\ProjectSam1\obj\Debug\ProjectSam1.csprojResolveAssemblyReference.cache
+E:\ProjectSam1\ProjectSam1\obj\Debug\ProjectSam1.csproj.CoreCompileInputs.cache
+E:\ProjectSam1\ProjectSam1\obj\Debug\ProjectSam1.exe
+E:\ProjectSam1\ProjectSam1\obj\Debug\ProjectSam1.pdb
+G:\Circus Charlie\ProjectSam1\bin\Debug\ProjectSam1.exe.config
+G:\Circus Charlie\ProjectSam1\obj\Debug\ProjectSam1.exe
+G:\Circus Charlie\ProjectSam1\obj\Debug\ProjectSam1.pdb
+G:\Circus Charlie\ProjectSam1\bin\Debug\ProjectSam1.exe
+G:\Circus Charlie\ProjectSam1\bin\Debug\ProjectSam1.pdb
+G:\Circus Charlie\ProjectSam1\obj\Debug\ProjectSam1.csprojResolveAssemblyReference.cache
+D:\project\Circus Charlie\ProjectSam1\bin\Debug\ProjectSam1.exe.config
+D:\project\Circus Charlie\ProjectSam1\bin\Debug\ProjectSam1.exe
+D:\project\Circus Charlie\ProjectSam1\bin\Debug\ProjectSam1.pdb
+D:\project\Circus Charlie\ProjectSam1\obj\Debug\ProjectSam1.csprojAssemblyReference.cache
+D:\project\Circus Charlie\ProjectSam1\obj\Debug\ProjectSam1.exe
+D:\project\Circus Charlie\ProjectSam1\obj\Debug\ProjectSam1.pdb
